@@ -7,7 +7,7 @@ An autonomous AI agent that controls your computer using natural language instru
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-![Architecture](docs/architecture.png)
+
 
 ---
 
